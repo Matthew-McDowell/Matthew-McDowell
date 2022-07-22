@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matthew-McDowell
+- 👋 Hi, I’m Matthew McDowell
 - 👀 I’m interested in Software development
 - 🌱 I’m currently studying Electrical Engineering at Texas A&M University
 - 📫 Reach me at justin.mcdowell@gmail.com
